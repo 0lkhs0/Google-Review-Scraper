@@ -10,7 +10,7 @@ The application will create a csv file storing all the reviews containing the re
 The application will allow more than one url to be uploaded and scraped.
 
 Example of the Google url:
-#![alt text](https://github.com/[0lkhs0]/[Google-Review-Scraper]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://ibb.co/jvZWV4K)
 
 
 
