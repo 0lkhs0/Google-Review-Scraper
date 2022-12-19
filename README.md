@@ -10,8 +10,7 @@ The application will create a csv file storing all the reviews containing the re
 The application will allow more than one url to be uploaded and scraped.
 
 Example of the Google url:
-![alt text](https://ibb.co/jvZWV4K)
-
+<img width="1400" alt="Screenshot 2022-12-20 at 12 28 54 AM" src="https://user-images.githubusercontent.com/104280044/208473436-62f7db76-0647-4e52-a0cb-6b8660ef68e3.png">
 
 
 
