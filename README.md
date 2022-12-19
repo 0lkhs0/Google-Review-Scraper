@@ -29,4 +29,4 @@ Example of the Google url:
   - Committing to repository 
   - Basic Git and Github functions
 
-Will be working on utilising datasets from reviews on other data science projects
+Will be working on utilising datasets from reviews obtained via this application on other data science projects
